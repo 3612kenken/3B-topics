@@ -1,4 +1,4 @@
-* * *
+
 
 # **Group Activity: GitHub Version Control (HTML + JavaScript)**
 
@@ -13,7 +13,7 @@
     -   **Student C – Integrator / Team Leader**
         
 
-* * *
+
 
 ## **Step 1 – GitHub Account (All Students)**
 
@@ -24,7 +24,7 @@
 3.  Log in successfully
     
 
-* * *
+
 
 ## **Step 2 – Create Repository (Student C)**
 
@@ -35,7 +35,7 @@
 -   Invite Student A & B as collaborators
     
 
-* * *
+
 
 ## **Step 3 – Clone Repository (All Students)**
 
@@ -44,7 +44,7 @@ git clone https://github.com/USERNAME/simple-html-js-project.git
 cd simple-html-js-project
 ```
 
-* * *
+
 
 ## **Step 4 – Initial Files (Student C)**
 
@@ -80,7 +80,7 @@ git commit -m "Initial HTML and JS setup"
 git push origin main
 ```
 
-* * *
+
 
 ## **Step 5 – Pull Latest Changes (Student A & B)**
 
@@ -88,7 +88,7 @@ git push origin main
 git pull origin main
 ```
 
-* * *
+
 
 ## **Step 6 – Create Branches**
 
@@ -104,7 +104,7 @@ git checkout -b html-feature
 git checkout -b js-feature
 ```
 
-* * *
+
 
 ## **Step 7 – Role-Based Coding Any HTML Codes You Want**
 
@@ -127,7 +127,7 @@ git commit -m "Added group members and button"
 git push origin html-feature
 ```
 
-* * *
+
 
 ### **Student B – JavaScript - Sample**
 
@@ -143,7 +143,7 @@ git commit -m "Added background color function"
 git push origin js-feature
 ```
 
-* * *
+
 
 ## **Step 8 – Merge (Student C)**
 
@@ -154,7 +154,7 @@ git push origin js-feature
 3.  Merge `js-feature`
     
 
-* * *
+
 
 ## **Step 9 – Final Pull (All Students)**
 
@@ -163,5 +163,6 @@ git checkout main
 git pull origin main
 ```
 
-* * *
+
+
 
