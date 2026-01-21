@@ -163,6 +163,23 @@ git checkout main
 git pull origin main
 ```
 
+## **Expected Output**
+
+-   HTML page with group list
+    
+-   Button changes background color
+    
+-   All students have commits in GitHub
+    
+
+
+## **Key Concepts Reinforced**
+
+-   GitHub accounts
+    
+-   Clone, branch, commit, push, pull
+    
+-   Role-based collaboration
 
 
 
