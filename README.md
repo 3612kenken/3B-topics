@@ -1,6 +1,6 @@
 
 
-# **Group Activity: GitHub Version Control (HTML + JavaScript)**
+# **Group Activity: GitHub Version Control (HTML + JavaScript) by Sir Kenneth Omiping**
 
 ## **Group Setup**
 
@@ -162,6 +162,7 @@ git push origin js-feature
 git checkout main
 git pull origin main
 ```
+
 
 
 
