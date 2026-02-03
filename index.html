@@ -1,1 +1,44 @@
 <!DOCTYPE html>
+<html>
+<head>
+    <title>Sample Page - Kenz</title>
+</head>
+<body>
+<h1 style="color:blue;background-color:yellow;">Hello IT 2A!</h1>
+<h2 style="color:pink;background-color:blue;">Hello IT 2A!</h2>
+
+<a href="https://www.youtube.com/@ExpeditionofAI"> <h2>My Youtube Channel Link</h2></a>
+<br><br>
+
+<h3>Login Form</h3>
+Username: <input type="text" placeholder="input text"/><br><br>
+Password: <input type="password" placeholder="enter your password" /><br><br>
+<button onClick="Login('Kenz UserName','Kenz Password');"> Login </button>
+</body>
+
+<script>
+let name = "Kenz";
+let age = 18;
+
+function Login(uname, pword){
+    alert("Welcome " + uname + "! Your password is " + pword + ".");
+    if(age>=23){
+        alert(name + " You are eligible to vote.");
+    }else{
+        alert(name + " You are not eligible to vote.");
+    }
+}
+
+
+// if(age>=23){
+//     alert(name + " You are eligible to vote.");
+// }else{
+//     alert(name + " You are not eligible to vote.");
+// }
+
+// let fruits = ["Mango", "Banana", "Apple", "Orange"];
+// fruits.forEach(f => alert(f));
+
+</script>
+
+</html>
